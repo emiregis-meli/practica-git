@@ -1,1 +1,2 @@
 Hola soy tu compañero de practica bootcamp para git.
+Buenas, soy otro compañero de IT BootCamp!
